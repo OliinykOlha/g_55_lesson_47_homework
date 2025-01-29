@@ -14,5 +14,6 @@ public class Main {
         listOfAnimals.add(new Rabbit());
 
 
+        System.out.println("List of animals: " + listOfAnimals);
     }
 }
